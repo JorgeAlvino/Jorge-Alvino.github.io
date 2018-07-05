@@ -1,0 +1,389 @@
+{
+	"songs":[
+
+		{
+			"id":0,
+			"name":"Never be alone",
+			"artits":"Feint",
+			"album":"TheFatRat",
+			"duracion":"04:20",
+			"song":"Canciones/Neverbealone.mp3",
+			"image":"Imagenes/img/0.jpg"
+
+		},
+
+		{
+			"id":1,
+			"name":"Clouds",
+			"artits":"Anna Yvette - AFK",
+			"album":"TheFatRat",
+			"duracion":"04:45",
+			"song":"Canciones/Clouds.mp3",
+			"image":"Imagenes/img/1.jpg"
+		},
+
+		{
+			"id":2,
+			"name":"Heaven",
+			"artits":"Rivero - Anna Yvette",
+			"album":"TheFatRat",
+			"duracion":"03:10",
+			"song":"Canciones/Heaven.mp3",
+			"image":"Imagenes/img/2.png"
+		},
+
+		{
+			"id":3,
+			"name":"Kuyenda",
+			"artits":"Lennart Schroot - Unknown Brain",
+			"album":"TheFatRat",
+			"duracion":"02:59",
+			"song":"Canciones/Kuyenda.mp3",
+			"image":"Imagenes/img/3.jpg"
+		},
+
+		{
+			"id":4,
+			"name":"Euphoria",
+			"artits":"Uplink - Jason Gewalt",
+			"album":"Album Desconocido",
+			"duracion":"03:33",
+			"song":" Canciones/Euphoria.mp3",
+			"image":"Imagenes/img/4.png"
+		},
+
+		{
+			"id":5,
+			"name":"Valkyrie",
+			"artits":"Varien - Laura Brehm",
+			"album":"Monstercat",
+			"duracion":"03:28",
+			"song":" Canciones/Valkyrie.mp3",
+			"image":"Imagenes/img/5.jpg"
+		},
+
+		{
+			"id":6,
+			"name":"C U Again",
+			"artits":"Cartoon x Futuristik - Mikk Mae",
+			"album":"NotCopyrightSound",
+			"duracion":"03:24",
+			"song":" Canciones/CUAgain.mp3",
+			"image":"Imagenes/img/6.png"
+		},
+
+		{
+			"id":7,
+			"name":"Safe And Sound",
+			"artits":"Different Heaven",
+			"album":"NotCopyrightSound",
+			"duracion":"03:12",
+			"song":" Canciones/SafeAndSound.mp3",
+			"image":"Imagenes/img/7.png"
+		},
+
+		{
+			"id":8,
+			"name":"Spirit of Things",
+			"artits":"Floatinutboat",
+			"album":"NotCopyrightSound",
+			"duracion":"04:12",
+			"song":" Canciones/SpiritofThings.mp3",
+			"image":"Imagenes/img/8.png"
+		},
+
+		{
+			"id":9,
+			"name":"Identity",
+			"artits":"Glude",
+			"album":"NotCopyrightSound",
+			"duracion":"03:07",
+			"song":" Canciones/Identity.mp3",
+			"image":"Imagenes/img/9.png"
+		},
+
+		{
+			"id":10,
+			"name":"Close",
+			"artits":"IZECOLD - Molly Ann",
+			"album":"NotCopyrightSound",
+			"duracion":"03:51",
+			"song":" Canciones/Close.mp3",
+			"image":"Imagenes/img/10.png"
+		},
+
+		{
+			"id":11,
+			"name":"Forces",
+			"artits":"Jim Yosef - Ivan Jamile",
+			"album":"NotCopyrightSound",
+			"duracion":"04:21",
+			"song":" Canciones/Forces.mp3",
+			"image":"Imagenes/img/11.jpg"
+		},
+
+		{
+			"id":12,
+			"name":"We Are",
+			"artits":"Jo Cohen & Sex Whales",
+			"album":"NotCopyrightSound",
+			"duracion":"03:57",
+			"song":" Canciones/WeAre.mp3",
+			"image":"Imagenes/img/12.jpg"
+		},
+
+		{
+			"id":13,
+			"name":"Feels Right",
+			"artits":"JPB MYRNE - Yung Fusion",
+			"album":"Album Desconocido",
+			"duracion":"03:18",
+			"song":" Canciones/FeelsRight.mp3",
+			"image":"Imagenes/img/13.jpg"
+		},
+
+		{
+			"id":14,
+			"name":"Earth",
+			"artits":"K-391",
+			"album":"NotCopyrightSound",
+			"duracion":"03:54",
+			"song":" Canciones/Earth.mp3",
+			"image":"Imagenes/img/14.jpg"
+		},
+
+		{
+			"id":15,
+			"name":"Mix 2017",
+			"artits":"Ncs",
+			"album":"NotCopyrightSound",
+			"duracion":"18:20",
+			"song":" Canciones/NCS.mp3",
+			"image":"Imagenes/img/15.jpg"
+		},
+
+		{
+			"id":16,
+			"name":"Crystal Clouds",
+			"artits":"Phantom Sage",
+			"album":"NotCopyrightSound",
+			"duracion":"04:18",
+			"song":" Canciones/CrystalClouds.mp3",
+			"image":"Imagenes/img/16.jpg"
+		},
+
+		{
+			"id":17,
+			"name":"Love U",
+			"artits":"Razihel",
+			"album":"NotCopyrightSound",
+			"duracion":"04:23",
+			"song":" Canciones/LoveU.mp3",
+			"image":"Imagenes/img/17.png"
+		},
+
+		{
+			"id":18,
+			"name":"Puzzle",
+			"artits":"RetroVision",
+			"album":"NotCopyrightSound",
+			"duracion":"02:50",
+			"song":" Canciones/Puzzle.mp3",
+			"image":"Imagenes/img/18.jpg"
+		},
+
+		{
+			"id":19,
+			"name":"Pain",
+			"artits":"Ship Wrek - Mia Vaile",
+			"album":"Album Desconocido",
+			"duracion":"03:31",
+			"song":" Canciones/Pain.mp3",
+			"image":"Imagenes/img/19.jpg"
+		},
+
+		{
+			"id":20,
+			"name":"Feeld Good",
+			"artits":"Syn Cole",
+			"album":"NotCopyrightSound",
+			"duracion":"03:02",
+			"song":"Canciones/FeelGood.mp3",
+			"image":"Imagenes/img/20.jpg"
+		},
+
+		{
+			"id":21,
+			"name":"Monody",
+			"artits":"Laura Brehm",
+			"album":"TheFatRat",
+			"duracion":"04:51",
+			"song":" Canciones/Monody.mp3",
+			"image":"Imagenes/img/21.png"
+		},
+
+		{
+			"id":22,
+			"name":"Roots",
+			"artits":"Tobu",
+			"album":"NotCopyrightSound",
+			"duracion":"03:10",
+			"song":" Canciones/Roots.mp3",
+			"image":"Imagenes/img/22.png"
+		},
+		{
+			"id":23,
+			"name":"Oblivion",
+			"artits":"Lola Blanc",
+			"album":"TheFatRat",
+			"duracion":"03:32",
+			"song":"Canciones/Oblivion.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":24,
+			"name":"Burn it Down",
+			"artits":"Linkin Park",
+			"album":"Album Desconocido",
+			"duracion":"03:53",
+			"song":"Canciones/BurnitDown.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":25,
+			"name":"Waiting For Love",
+			"artits":"Avicii",
+			"album":"Album Desconocido",
+			"duracion":"03:50",
+			"song":"Canciones/WaitingForLove.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":26,
+			"name":"No Money",
+			"artits":"Galantis",
+			"album":"Album Desconocido",
+			"duracion":"03:22",
+			"song":"Canciones/NoMoney.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":27,
+			"name":"Runaway",
+			"artits":"Galantis",
+			"album":"Album Desconocido",
+			"duracion":"03:47",
+			"song":"Canciones/Runaway.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":28,
+			"name":"Alone",
+			"artits":"Marshmello",
+			"album":"Album Desconocido",
+			"duracion":"03:19",
+			"song":"Canciones/Alone.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":29,
+			"name":"In The Name Of Love",
+			"artits":"Martin Garrix Bebe Rexha",
+			"album":"Album Desconocido",
+			"duracion":"03:18",
+			"song":"Canciones/InTheNameOfLove.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":30,
+			"name":"Byte",
+			"artits":"Martin Garrix Brooks",
+			"album":"Album Desconocido",
+			"duracion":"03:51",
+			"song":"Canciones/Byte.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":31,
+			"name":"Hold On Believe",
+			"artits":"Martin Garrix ",
+			"album":"Album Desconocido",
+			"duracion":"03:57",
+			"song":"Canciones/HoldOnBelieve.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":32,
+			"name":"Forever",
+			"artits":"Martin Garrix Matisse Sadko ",
+			"album":"Album Desconocido",
+			"duracion":"03:38",
+			"song":"Canciones/Forever.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":33,
+			"name":"Together",
+			"artits":"Martin Garrix Matisse Sadko ",
+			"album":"Album Desconocido",
+			"duracion":"03:41",
+			"song":"Canciones/Together.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":34,
+			"name":"Los Malaventurados No Lloran",
+			"artits":"Panda",
+			"album":"Album Desconocido",
+			"duracion":"03:55",
+			"song":"Canciones/LosMalaventuradosNoLloran.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":35,
+			"name":"Nuestra Aflicción",
+			"artits":"PXNDX",
+			"album":"Album Desconocido",
+			"duracion":"05:43",
+			"song":"Canciones/NuestraAflicción.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":36,
+			"name":"Narcisista por Excelencia",
+			"artits":"Panda",
+			"album":"Album Desconocido",
+			"duracion":"03:57",
+			"song":"Canciones/NarcisistaporExcelencia.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":37,
+			"name":"Procedimientos para Lleguar a un Comun Acuerdo",
+			"artits":"PXNDX",
+			"album":"Album Desconocido",
+			"duracion":"03:25",
+			"song":"Canciones/ProcedimientosparaLlegaraunComunAcuerdo.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":38,
+			"name":"Solo a Terceros",
+			"artits":"PXNDX",
+			"album":"Album Desconocido",
+			"duracion":"04:36",
+			"song":"Canciones/SoloaTerceros.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		},
+		{
+			"id":39,
+			"name":"Dont You Worry Child",
+			"artits":"Swedish House Mafia",
+			"album":"Album Desconocido",
+			"duracion":"05:34",
+			"song":"Canciones/DontYouWorryChild.mp3",
+			"image":"Imagenes/Inicio.jpg"
+		}
+
+	]
+}
